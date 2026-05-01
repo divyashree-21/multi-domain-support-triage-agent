@@ -1,0 +1,29 @@
+Q: Payment failed but money deducted
+A: Contact your bank to initiate a refund or verify transaction status.
+
+Q: Card declined
+A: Ensure sufficient balance and check with your bank for restrictions.
+
+Q: Unauthorized transaction
+A: Report immediately to your bank to block the card and initiate investigation.
+
+Q: Dispute a charge
+A: You can raise a chargeback request through your bank.
+
+Q: Refund not received
+A: Refund timelines depend on the merchant and bank processing.
+
+Q: Lost or stolen card
+A: Immediately block your card through your bank.
+
+Q: International transaction issues
+A: Ensure your card is enabled for international usage.
+
+Q: Minimum spend requirement
+A: Some merchants may have minimum transaction limits.
+
+Q: Cash withdrawal
+A: Use ATM with your PIN to withdraw cash.
+
+Q: Fraud alert
+A: Contact your bank immediately for suspicious activity.

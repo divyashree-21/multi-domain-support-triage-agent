@@ -1,0 +1,29 @@
+Q: I cannot access my workspace
+A: Access to workspaces is managed by the admin. Please contact your administrator.
+
+Q: Claude not responding
+A: Try refreshing the page or checking your internet connection.
+
+Q: Slow or lagging responses
+A: This may be due to network issues or server load. Try again later.
+
+Q: How is my data used?
+A: Your data is handled according to privacy policies and is not shared without consent.
+
+Q: Personal data usage
+A: Claude processes inputs to generate responses but does not store personal data permanently.
+
+Q: Claude showing incorrect answers
+A: Responses may vary. Try rephrasing your query for better results.
+
+Q: Feature request
+A: You can submit feature requests through official feedback channels.
+
+Q: Account access issues
+A: Reset your password or contact support if you cannot log in.
+
+Q: Website data crawling
+A: You can control crawling using robots.txt and site permissions.
+
+Q: Subscription billing issue
+A: Check your billing details or contact support for assistance.

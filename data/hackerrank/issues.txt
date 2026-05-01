@@ -1,0 +1,35 @@
+Q: Submission not working?
+A: Try refreshing the page, checking your internet connection, or clearing browser cache.
+
+Q: Unable to submit code
+A: Ensure your code compiles successfully and meets all problem constraints.
+
+Q: Test cases not passing
+A: Check edge cases and ensure correct input/output formatting.
+
+Q: Candidate inactivity timeout?
+A: Candidates may be logged out due to inactivity. They can rejoin using the test link.
+
+Q: How to remove a user?
+A: Go to admin settings and remove the user from your team.
+
+Q: Subscription pause
+A: You can manage or pause your subscription from account settings.
+
+Q: Why was my test score rejected?
+A: Scores cannot be modified manually. Please contact the recruiter.
+
+Q: Compatible check failed
+A: Ensure your system meets browser, camera, and internet requirements.
+
+Q: Mock interview not working
+A: Check your internet connection and ensure permissions for camera/microphone.
+
+Q: Certification issues
+A: Certification scores are automatically generated and cannot be changed.
+
+Q: How to update certificate name?
+A: Certificate details cannot be modified after issuance. Please contact support.
+
+Q: Resume builder not working
+A: Try refreshing the page or checking your internet connection.
