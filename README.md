@@ -381,12 +381,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👩‍💻 Author
 
-**Divya Srhree**  
+**Divya Shree M**  
 Computer Science Engineering Student
 
 - 🔗 [GitHub](https://github.com/divyashree-21)
-- 💼 [LinkedIn](https://linkedin.com/in/divyashree-21)
-- 📧 [Email](mailto:divyashree21@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/divya-gowda-72b18932b)
+- 📧 [Email](mailto:divyashree200621@gmail.com)
 
 ---
 
